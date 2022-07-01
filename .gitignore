@@ -1,0 +1,6 @@
+.vscode
+.env
+subconverter
+dist
+*.7z
+*.tar.gz
